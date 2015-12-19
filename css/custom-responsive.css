@@ -1,0 +1,300 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media (min-width: 1000px){
+	.banner .col-md-12{
+		padding:0px;
+	}
+}
+@media (max-width: 1000px){
+	.project-list-wrapp{
+		width:50%;
+	}
+	.project-name{
+		text-align:center;
+	}
+	.project-name h3{
+		 float:none;
+	}
+	.select-tower{
+		width:100%;
+		float:none;
+		margin:20px 0px;
+	}
+	.project-name *{
+		float:none !important;
+		display:inline-block;
+	}
+	.tb-current{
+		display:none;
+	}
+	.img-ico{
+		display:none;
+	}
+	.offer-ico{
+		display:none !important;
+	}
+
+	
+}
+@media (max-width: 800px) {
+	.navbar-brand{
+		padding:5px;
+	}
+	.navbar-brand img{
+		width:130px;
+	}
+
+	.off-upd{
+		float:right;
+		padding-top:10px;
+		display:none;
+	}
+	.off-upd a{
+		padding:5px;
+	}
+	.abt-block{
+		text-align:center;
+		margin-bottom:15px;
+	}
+	.my-nav{
+		background:#eee;
+		padding:0px;
+	}
+	.my-nav li a{
+		border-bottom:1px solid #ccc;
+	}
+	.my-nav li a:hover{	
+		color:#000;
+		border-bottom:1px solid #85d1bc;
+	}
+	.my-nav .last-item a {
+    	border-bottom:1px solid #eee !important;
+	}
+	.testi-cont{
+		max-width:58%;
+	}
+	.address{
+		padding-top:10px;
+	}
+	.project-list-wrapp{
+		width:100%;
+		float:none;
+	}
+	.hm-form{
+		margin-top:30px;
+		margin-bottom:10px;
+	}
+	.ft-btm{
+		text-align:center;
+	}
+	.ft-btm *{
+		display:inline-block;
+	}
+	.ft-btm p{
+		padding:8px 0px;
+	}
+	.ft-right-blk form{
+		padding:40px 0px;
+	}
+	.ft-right-blk form input[type=text]{
+		width:70%;
+	}
+	.ft-right-blk form input[type=submit]{
+		width:30%;
+	}
+	.select-tower select{
+		width:100%;
+		margin-bottom:20px;
+	}
+	.project-main-links li{
+		float:none;
+		width:100%;
+		margin:5px 0px;
+	}
+	.services-wrapp{
+		text-align:center;
+	}
+	.services-wrapp img{
+		float:none !important;
+	}
+	.off-left{
+		max-width:inherit;
+	}
+	.target-linksWrapper{
+		display:none;
+	}
+
+}
+@media (max-width: 480px) {
+	.header-mainwrapper{
+		position:fixed;
+		top:0;
+		left:0;
+		right:0;
+		background:#fff;
+		z-index:999;
+	}
+	.SliderWrapper{
+		margin-top:50px;
+	}
+	.header-topWrapper{
+		display:none;
+	}
+	.subpage-bannerContent h1{
+		font-size:45px;
+	}
+	.subpage-bannerContent p{
+		font-size:15px;
+		line-height:20px;
+	}
+	.da-thumbs li{
+		width:100%;
+		float:none;
+	}
+	.navbar-brand {
+		display:block;
+	}
+	.test-img{
+		float:none;
+		display:inline-block;
+		margin-right:0px;
+	}
+	.testimonials-wrapp{
+		text-align:center;
+	}
+	.testi-cont{
+		float:none;
+		margin:20px 0px;
+		display:inline-block;
+	}
+	.slider-wrapper h1{
+		font-size:25px;
+	}
+	p{
+		font-size:12px;
+	}
+	.slider-wrapper{
+		padding:0px 20px;
+	}
+	.slider-wrapper h1{
+		font-size:25px;
+	}
+	.slider-wrapper p{
+		font-size:13px;
+		line-height:inherit;
+	}
+	.slder-wrapp-btm{
+		display:none;
+	}
+	.pro-cont-blk{
+		padding:10px;
+		padding-top:15px;
+	}
+	.pro-cont-blk h3{
+		font-size:15px;
+	}
+	.pro-cont-blk p{
+		display:none;
+	}
+	.project-icons li img{
+		width:40px;
+	}
+	.ft-right-blk .address p{
+		font-size:13px;
+		line-height:22px;
+	}
+	.ft-right-blk form input[type=text]{
+		font-size:14px;
+	}
+	.ft-right-blk form input[type=submit]{
+		font-size:17px;
+	}
+	.offer-banner h1{
+		font-size:20px;
+		padding:10px;
+		margin:0px;
+	}
+	.off-cnt{
+		padding:15px 20px;
+	}
+	.tbl{
+		min-height:inherit;
+	}
+	.olive-groupTitle p{
+		padding:0px 20px;
+	}
+	.olive-ht-wrapp-Main{
+		padding-left:0px;
+	}
+	.olive-ht-wrapp a img{
+		width:100%;
+	}
+	.oline-ht-content{
+		margin-left:0px;
+	}
+	.olive-group{
+		padding:20px 0px;
+	}
+	footer .footer-top{
+		padding:0px;
+	}
+	.quick-links ul li{
+		margin-bottom:5px;
+	}
+	.rst-list-imgWrapp .overlay-leftTop{
+		display:none;
+	}
+	.HT-drop-wrapp{
+		margin-bottom:10px;
+	}
+	.HT-drop-wrapp .olive-ht-content p{
+		display:none;
+	}
+	.drop-dowm-outer{
+		padding:15px;
+		margin:0;
+		-webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .08);
+    	box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
+	}
+	.ht-content-right{
+		padding:15px;
+	}
+	.hotel-Slider #slider1 img{
+		border-radius:5px;
+	}
+	.career-wrapper{
+		padding:12px;
+	}
+	.sliderOverlayInner-tableCell{
+		padding-top:0;
+	}
+	.subpage-bannerContent{
+		padding:10px 0;
+	}
+	.subpage-bannerContent h1{
+		font-size:30px;
+		margin-bottom:5px;
+	}
+	.subpage-bannerContent p{
+		font-size:11px;
+		line-height:18px;
+		padding-bottom:20px;
+	}
+	.contact-address-wrapp{
+		padding:20px;
+	}
+	.cnt-add-right{
+		padding:0px;
+		margin:0px;
+		border:none;
+	}
+	.select-hotel-wrapper{
+		padding:10px;
+		margin-top:10px;
+	}
+	.slt-ht-outerWrapp{
+		margin:0px;
+		margin-bottom:15px;
+	}
+}

@@ -1,0 +1,11 @@
+[07-Apr-2015 14:29:32 UTC] PHP Fatal error:  Class 'CI_Config' not found in /home/olivehot/public_html/system/core/Common.php on line 174
+[07-Apr-2015 14:29:37 UTC] PHP Fatal error:  Class 'CI_Config' not found in /home/olivehot/public_html/system/core/Common.php on line 174
+[13-Jul-2015 06:35:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14032 bytes) in /home/olivehot/public_html/system/libraries/Image_lib.php on line 1155
+[13-Jul-2015 06:38:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14032 bytes) in /home/olivehot/public_html/system/libraries/Image_lib.php on line 1155
+[25-Jul-2015 04:00:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 9448 bytes) in /home/olivehot/public_html/system/libraries/Image_lib.php on line 1155
+[21-Aug-2015 09:44:21 UTC] PHP Warning:  POST Content-Length of 16251692 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[21-Aug-2015 09:44:29 UTC] PHP Warning:  POST Content-Length of 16251692 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[24-Aug-2015 12:22:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 21888 bytes) in /home/olivehot/public_html/system/libraries/Image_lib.php on line 1155
+[25-Aug-2015 11:40:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 21888 bytes) in /home/olivehot/public_html/system/libraries/Image_lib.php on line 1155
+[21-Oct-2015 16:23:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 9448 bytes) in /home/olivehot/public_html/system/libraries/Image_lib.php on line 1155
+[29-Oct-2015 06:40:44 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/olivehot/public_html/footer.php on line 11
